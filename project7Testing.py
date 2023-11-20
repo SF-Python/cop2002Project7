@@ -63,7 +63,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_2_example2_in_assignment_description(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing the second example in assignment description.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile2.txt", "Project7Output.txt", "done"]  # 
@@ -95,7 +95,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_3_TestFile3(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing using TestFile3.txt.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile3.txt", "Project7Output.txt", "done"]  # 
@@ -130,7 +130,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_4_TestFile4(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing using TestFile4.txt.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile4.txt", "Project7Output.txt", "done"]  # 
@@ -165,7 +165,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_5_TestFile5(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing using TestFile5.txt.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile5.txt", "Project7Output.txt", "done"]  # 
@@ -197,7 +197,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_6_TestFile6(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing using TestFile6.txt.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile6.txt", "Project7Output.txt", "done"]  # 
@@ -229,7 +229,7 @@ class Project7Test(unittest.TestCase):
 
     @mock.patch("project7.input", create=True)  # "project7" is the unit under test
     def test_7_TestFile7(self, mocked_input):
-        ''' Testing the first example in assignment description.  '''
+        ''' Testing using TestFile7.txt.  '''
 
         # Provide the inputs
         mocked_input.side_effect = ["Project7TestFile7.txt", "Project7Output.txt", "done"]  # 
