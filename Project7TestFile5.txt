@@ -1,0 +1,21 @@
+Last Name,First Name,Preferred Name,Preferred Pronoun,SF ID #,Program Code,Phone,Email,Program
+Minion,Bob,Bob,he/him,2211-4456,1031,910-432-8765,bob.minion@go.sfcollege.edu,Accounting
+Nichols,James,James,,1234-5678,1115,352-395-5220,james.nichols@sfcollege.edu,Agribusiness/Food_Econ
+Person,Punny,,,9999-1111,1013,352-123-4567,punny.person@go.sfcollege.edu,Animal_Sciences
+Person,Punny2,,,9999-1112,1059,352-123-6792,punny2.person@go.sfcollege.edu,Anthropology
+Person,Punny3,,,9999-1113,1051,352-123-3420,punny3.person@go.sfcollege.edu,Architecture
+Smart,Maxwell,Max,,9922-4029,1065,310-2910,agent.smart@go.sfcollege.edu,Art_Education
+Tree,Groot,Groot,,1122-3344,1057,361-1234-5678,groot.tree@go.sfcollege.edu,Art_History
+Washington,George,George,,1001-1001,1061,361-1234-5679,George.Washington@go.sfcollege.edu,Art_Studio
+Adams,John,John,,1001-1002,1068,361-1234-5680,John.Adams@go.sfcollege.edu,Astronomy
+Jefferson,Thomas,Thomas,,1001-1003,1021,361-1234-5681,Thomas.Jefferson@go.sfcollege.edu,Biological_Sciences
+Madison,James,James,,1001-1004,1063,361-1234-5682,James.Madison@go.sfcollege.edu,Botany
+Monroe,James,James,,1001-1005,1052,361-1234-5683,James.Monroe@go.sfcollege.edu,Building_Construction
+Quincy Adams,John,John,,1001-1006,1030,361-1234-5684,John.Quincy Adams@go.sfcollege.edu,Business_Admin
+Jackson,Andrew,Andrew,,1001-1007,1022,361-1234-5685,Andrew.Jackson@go.sfcollege.edu,Chemistry
+Van Buren,Martin,Martin,,1001-1008,1086,361-1234-5686,Martin.Van Buren@go.sfcollege.edu,Clinical_Lab_Sci/Med_Tech
+Henry Harrison,William,William,,1001-1009,1005,361-1234-5687,William.Henry Harrison@go.sfcollege.edu,Comm_and_Leadership_Dev
+Tyler,John,John,,1001-1010,1089,361-1234-5688,John.Tyler@go.sfcollege.edu,Communications_And_Disorders
+K. Polk,James,James,,1001-1011,3504,361-1234-5689,James.K. Polk@go.sfcollege.edu,Computer_Information_Technology
+Taylor,Zachary,Zachary,,1001-1012,1002,361-1234-5690,Zachary.Taylor@go.sfcollege.edu,Computer_Science
+Fillmore,Millard,Millard,,1001-1013,1131,361-1234-5691,Millard.Fillmore@go.sfcollege.edu,Criminal_Justice

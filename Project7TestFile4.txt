@@ -1,0 +1,160 @@
+Program Code,Major
+1031,Accounting
+1010,Agriculture
+1013,Animal Sciences
+1059,Anthropology
+1051,Architecture
+1065,Art Education
+1057,Art History
+1061,Art Studio
+1068,Astronomy
+1021,Biological Sciences
+1063,Botany
+1052,Building Construction
+1030,Business Admin
+1022,Chemistry
+1086,Clinical Lab Sci/Med Tech
+1005,Communication and Leadership Development
+1089,Communication Science and  Disorders
+1002,Computer Science
+1131,Criminal Justice
+1066,Dance
+1205,Dietetics
+1136,Economics
+1041,Elementary Education
+1055,Engineering
+1081,English
+1054,Environmental Science
+1042,Exercise & Sport Science
+1016,Exploring Arts and Humanities
+1119,Exploring General Studies
+1070,Exploring Health Programs
+1017,Exploring Science
+1015,Exploring Social Science
+1114,Family Youth & Community 
+1123,Fashion Merchandising
+1083,Film Studies
+1115,Food & Resource Economics
+1200,Food Science
+1012,Forestry
+1092,French
+1018,General Studies (NO Transfer info)
+1113,Geography
+1125,Geology
+1087,Graphic Design
+1084,Health Sciences
+1127,Health Services Admin
+1132,History
+1126,Hospitality Management
+1053,Interior Design
+1128,International Business
+1064,Journalism
+1117,Linguistics
+1124,Marine Science
+1139,Mathematics
+1025,Microbiology & Cell Science
+1062,Music
+1118,Musical Theater
+1071,Nursing
+1116,Nutritional Sciences
+1073,Pharmacy
+1094,Philosophy
+1088,Photography
+1048,Physical Education
+1023,Physics
+1133,Political Science
+1134,Psychology
+1078,Public Health
+1069,Recreation
+1130,Religion
+1122,Social Work
+1135,Sociology
+1096,Spanish
+1044,Special Education
+1043,Sports Management
+1067,Theatre
+1019,Wildlife Ecology
+1058,Zoology
+5200,Clinical Laboratory Science
+5100,Health Services Administration 
+5250,Industrial Biotechnology
+5600,Multimedia and Video Production Technology 
+5500,Organizational Management
+5650,IST-Networking
+5651,IST-Programming
+5652,IST-Security
+5550, Accounting
+5300,Early Childhood Education
+5400,Nursing
+3245,Accounting
+3822,Biomedical Equipment Technician
+3621,Biotechnology Laboratory Technician
+3610,Construction Management Technology
+3225,Business Administration-Insurance and Risk Management
+3220,Business Administration-Management
+3308,Cardiovascular Sonography
+3630,Chemical Technology
+3504,Computer Information Technology
+3702,Criminal Justice Technology
+3311,Dental Hygiene
+3321,Dental Hygiene Bridge
+3620,Digital Media Technology
+3401,Early Childhood Education
+3397,Emergency Medical Services
+3619,Graphic Design Technology
+3306,Diagnostic Medical Sonography
+3520,Health Information Technology
+3330,Health Services Management
+3307,Invasive Cardiovascular Technology
+3840,IT Security – Infrastructure Track
+3841,IT Security – Healthcare Track
+3842,IT Security – Risk Management Track
+3650,Network System Technology – Networking Server Administration
+3651,Network System Technology – Networking Infrastructure
+3315,Nuclear Medicine Technology
+3303,Nursing
+3313,Nursing Bridge LPN
+3230,Office Administration
+3707,Paralegal Studies
+3318,Physical Therapist Assistant
+3624,Programming and Analysis – Web Development  
+3625,Programming and Analysis – Application Development
+3305,Radiography
+3310,Respiratory Care
+3550,Theatre and Entertainment Technology
+3106,Zoo Animal Technology
+2604,Automotive Service Management Technology
+6307,Computed Tomography
+6315,Polysomnography
+6628,Chemical Laboratory Specialist
+6625,Computer Programmer
+6635,Computer Programming Specialist
+6555,Data Management Analytics Specialist
+6907,Emergency Medical Technician
+6645,Help Desk Support Technician
+6623,Information Technology Support Specialist
+6650,Network Server Administration
+6651,Network Infrastructure
+6652,Network Security
+6577,Office Specialist
+6900,Paramedic
+6592,Revenue Cycle Management Medical Coder Biller
+6309,Sterile Processing Technology
+7603,Automotive Service Technology
+7674,Carpentry Apprenticeship
+7705,Correctional Officer
+7725,Crossover from Correctional Officer to Law Enforcement Officer
+7722,Crossover from Law Enforcement to Correctional Officer
+7301,Dental Assisting
+7692,Electrical Construction Apprenticeship
+7601,Heating Ventilation Air-Conditioning/Refrigeration Technology
+7631,Heating and Air Conditioning Apprenticeship
+7702,Law Enforcement Officer
+7333,Nursing Assistant
+7340,Phlebotomy
+7654,Plumbing Apprenticeship
+7658,Plumbing Technology 
+7303,Practical Nursing
+7338,Surgical Technology
+7623,Welding Technology
+7627,Welding Technology - Advanced

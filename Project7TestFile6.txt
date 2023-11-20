@@ -1,0 +1,127 @@
+Last Name,First Name,Preferred Name,Preferred Pronoun,SF ID #,Program Code,Phone,Email,Program
+Minion,Bob,Bob,he/him,2211-4456,1031,910-432-8765,bob.minion@go.sfcollege.edu,Accounting
+Nichols,James,James,,1234-5678,1115,352-395-5220,james.nichols@sfcollege.edu,Agribusiness/Food_Econ
+Person,Punny,,,9999-1111,1013,352-123-4567,punny.person@go.sfcollege.edu,Animal_Sciences
+Person,Punny2,,,9999-1112,1059,352-123-6792,punny2.person@go.sfcollege.edu,Anthropology
+Person,Punny3,,,9999-1113,1051,352-123-3420,punny3.person@go.sfcollege.edu,Architecture
+Smart,Maxwell,Max,,9922-4029,1065,310-2910,agent.smart@go.sfcollege.edu,Art_Education
+Tree,Groot,Groot,,1122-3344,1057,361-1234-5678,groot.tree@go.sfcollege.edu,Art_History
+Washington,George,George,,1001-1001,1061,361-1234-5679,George.Washington@go.sfcollege.edu,Art_Studio
+Adams,John,John,,1001-1002,1068,361-1234-5680,John.Adams@go.sfcollege.edu,Astronomy
+Jefferson,Thomas,Thomas,,1001-1003,1021,361-1234-5681,Thomas.Jefferson@go.sfcollege.edu,Biological_Sciences
+Madison,James,James,,1001-1004,1063,361-1234-5682,James.Madison@go.sfcollege.edu,Botany
+Monroe,James,James,,1001-1005,1052,361-1234-5683,James.Monroe@go.sfcollege.edu,Building_Construction
+Quincy Adams,John,John,,1001-1006,1030,361-1234-5684,John.Quincy Adams@go.sfcollege.edu,Business_Admin
+Jackson,Andrew,Andrew,,1001-1007,1022,361-1234-5685,Andrew.Jackson@go.sfcollege.edu,Chemistry
+Van Buren,Martin,Martin,,1001-1008,1086,361-1234-5686,Martin.Van Buren@go.sfcollege.edu,Clinical_Lab_Sci/Med_Tech
+Henry Harrison,William,William,,1001-1009,1005,361-1234-5687,William.Henry Harrison@go.sfcollege.edu,Comm_and_Leadership_Dev
+Tyler,John,John,,1001-1010,1089,361-1234-5688,John.Tyler@go.sfcollege.edu,Communications_And_Disorders
+K. Polk,James,James,,1001-1011,3504,361-1234-5689,James.K. Polk@go.sfcollege.edu,Computer_Information_Technology
+Taylor,Zachary,Zachary,,1001-1012,1002,361-1234-5690,Zachary.Taylor@go.sfcollege.edu,Computer_Science
+Fillmore,Millard,Millard,,1001-1013,1131,361-1234-5691,Millard.Fillmore@go.sfcollege.edu,Criminal_Justice
+Pierce,Franklin,Franklin,,1001-1014,1066,361-1234-5692,Franklin.Pierce@go.sfcollege.edu,Dance
+Buchanan,James,James,,1001-1015,1205,361-1234-5693,James.Buchanan@go.sfcollege.edu,Dietetics
+Lincoln,Abraham,Abraham,,1001-1016,1136,361-1234-5694,Abraham.Lincoln@go.sfcollege.edu,Economics
+Johnson,Andrew,Andrew,,1001-1017,1041,361-1234-5695,Andrew.Johnson@go.sfcollege.edu,Elementary_Education
+S. Grant,Ulysses,Ulysses,,1001-1018,1055,361-1234-5696,Ulysses.S. Grant@go.sfcollege.edu,Engineering
+B. Hayes,Rutherford,Rutherford,,1001-1019,1055,361-1234-5697,Rutherford.B. Hayes@go.sfcollege.edu,Engineering
+A. Garfield,James,James,,1001-1020,1081,361-1234-5698,James.A. Garfield@go.sfcollege.edu,English
+A. Arthur,Chester,Chester,,1001-1021,1054,361-1234-5699,Chester.A. Arthur@go.sfcollege.edu,Environmental Science
+Cleveland,Grover,Grover,,1001-1022,1042,361-1234-5700,Grover.Cleveland@go.sfcollege.edu,Exercise_and_Sport_Science
+Harrison,Benjamin,Benjamin,,1001-1023,1016,361-1234-5701,Benjamin.Harrison@go.sfcollege.edu,Exploring_Arts_And_Humanities
+Cleveland (2nd term),Grover,Grover,,1001-1024,1119,361-1234-5702,Grover.Cleveland (2nd term)@go.sfcollege.edu,Exploring_General_Studies
+McKinley,William,William,,1001-1025,1070,361-1234-5703,William.McKinley@go.sfcollege.edu,Exploring_Health_Programs
+Roosevelt,Theodore,Theodore,,1001-1026,1017,361-1234-5704,Theodore.Roosevelt@go.sfcollege.edu,Exploring_Science
+Howard Taft,William,William,,1001-1027,1015,361-1234-5705,William.Howard Taft@go.sfcollege.edu,Exploring_Social_Science
+Wilson,Woodrow,Woodrow,,1001-1028,1114,361-1234-5706,Woodrow.Wilson@go.sfcollege.edu,Family_Youth_and_Community
+G. Harding,Warren,Warren,,1001-1029,1123,361-1234-5707,Warren.G. Harding@go.sfcollege.edu,Fashion_Merchandising
+Coolidge,Calvin,Calvin,,1001-1030,1083,361-1234-5708,Calvin.Coolidge@go.sfcollege.edu,Film_Studies
+Hoover,Herbert,Herbert,,1001-1031,1200,361-1234-5709,Herbert.Hoover@go.sfcollege.edu,Food_Science
+D. Roosevelt,Franklin,Franklin,,1001-1032,1012,361-1234-5710,Franklin.D. Roosevelt@go.sfcollege.edu,Forestry
+S. Truman,Harry,Harry,,1001-1033,1092,361-1234-5711,Harry.S. Truman@go.sfcollege.edu,French
+D. Eisenhower,Dwight,Dwight,,1001-1034,1018,361-1234-5712,Dwight.D. Eisenhower@go.sfcollege.edu,General_Transfer
+F. Kennedy,John,John,,1001-1035,3651,361-1234-5713,John.F. Kennedy@go.sfcollege.edu,Infrastructure
+B. Johnson,Lyndon,Lyndon,,1001-1036,3841,361-1234-5714,Lyndon.B. Johnson@go.sfcollege.edu,IT_Security__Healthcare
+Nixon,Richard,Richard,,1001-1037,3840,361-1234-5715,Richard.Nixon@go.sfcollege.edu,IT_Security__Infrastructure
+ABELE,STEVEN,Gerald,,1001-1038,3842,361-1234-5716,STEVEN.ABELE@go.sfcollege.edu,IT_Security__Risk Management
+ACOSTA,TONY,Jimmy,,1001-1039,3652,361-1234-5717,TONY.ACOSTA@go.sfcollege.edu,Network_Security
+ADAMS,MALCOLM,Ronald,,1001-1040,1023,361-1234-5718,MALCOLM.ADAMS@go.sfcollege.edu,Physics
+ADDISON,TRAVIS,George,,1001-1041,3624,361-1234-5719,TRAVIS.ADDISON@go.sfcollege.edu,Programming
+ALBRITTON,KOB'IE,Bill,,1001-1042,3650,361-1234-5720,KOB'IE.ALBRITTON@go.sfcollege.edu,Server_Administration
+ALCONADA,ALEX,George,,1001-1043,3651,361-1234-5721,ALEX.ALCONADA@go.sfcollege.edu,Infrastructure
+ALLEN,DANIEL,Barack,,1001-1044,3841,361-1234-5722,DANIEL.ALLEN@go.sfcollege.edu,IT_Security__Healthcare
+ALLEN,XAVIER,XAVIER,,1001-1045,3840,361-1234-5723,XAVIER.ALLEN@go.sfcollege.edu,IT_Security__Infrastructure
+ALLEN,MICHAEL,MICHAEL,,1001-1046,3842,361-1234-5724,MICHAEL.ALLEN@go.sfcollege.edu,IT_Security__Risk Management
+AMBURGEY,MAREENA,MAREENA,,1001-1047,3652,361-1234-5725,MAREENA.AMBURGEY@go.sfcollege.edu,Network_Security
+ANDERSON,MANUEL,MANUEL,,1001-1048,3624,361-1234-5726,MANUEL.ANDERSON@go.sfcollege.edu,Programming
+ANDERSON,GREGORIO,GREGORIO,,1001-1049,3650,361-1234-5727,GREGORIO.ANDERSON@go.sfcollege.edu,Server_Administration
+ANDERSON,KEYSHAWN,KEYSHAWN,,1001-1050,3651,361-1234-5728,KEYSHAWN.ANDERSON@go.sfcollege.edu,Infrastructure
+ANDREWS,DEMARI,DEMARI,,1001-1051,3841,361-1234-5729,DEMARI.ANDREWS@go.sfcollege.edu,IT_Security__Healthcare
+ANTHONY,MEEKA,MEEKA,,1001-1052,3840,361-1234-5730,MEEKA.ANTHONY@go.sfcollege.edu,IT_Security__Infrastructure
+ARCHER,PRESTON,PRESTON,,1001-1053,3842,361-1234-5731,PRESTON.ARCHER@go.sfcollege.edu,IT_Security__Risk Management
+ARNAU,RICKEY,RICKEY,,1001-1054,3652,361-1234-5732,RICKEY.ARNAU@go.sfcollege.edu,Network_Security
+ARRINGTON,ROBERTO,ROBERTO,,1001-1055,3624,361-1234-5733,ROBERTO.ARRINGTON@go.sfcollege.edu,Programming
+ARTIS,JAMES,JAMES,,1001-1056,3650,361-1234-5734,JAMES.ARTIS@go.sfcollege.edu,Server_Administration
+ASBELL,CLARENCE,CLARENCE,,1001-1057,3651,361-1234-5735,CLARENCE.ASBELL@go.sfcollege.edu,Infrastructure
+AVILES,THERIYUS,THERIYUS,,1001-1058,3841,361-1234-5736,THERIYUS.AVILES@go.sfcollege.edu,IT_Security__Healthcare
+AYALA,TOMMY,TOMMY,,1001-1059,3840,361-1234-5737,TOMMY.AYALA@go.sfcollege.edu,IT_Security__Infrastructure
+BADILLO,DWAYNE,DWAYNE,,1001-1060,3842,361-1234-5738,DWAYNE.BADILLO@go.sfcollege.edu,IT_Security__Risk Management
+BAILEY,JAVARI,JAVARI,,1001-1061,3652,361-1234-5739,JAVARI.BAILEY@go.sfcollege.edu,Network_Security
+BAKER,ROBERT,ROBERT,,1001-1062,3624,361-1234-5740,ROBERT.BAKER@go.sfcollege.edu,Programming
+BAKER,ROBERT,ROBERT,,1001-1063,3650,361-1234-5741,ROBERT.BAKER@go.sfcollege.edu,Server_Administration
+BAKER,CHEVY,CHEVY,,1001-1064,3651,361-1234-5742,CHEVY.BAKER@go.sfcollege.edu,Infrastructure
+BAKER,LOUIS,LOUIS,,1001-1065,3841,361-1234-5743,LOUIS.BAKER@go.sfcollege.edu,IT_Security__Healthcare
+BALDINELLI,DANIEL,DANIEL,,1001-1066,3840,361-1234-5744,DANIEL.BALDINELLI@go.sfcollege.edu,IT_Security__Infrastructure
+BALLARD,EUGENE,EUGENE,,1001-1067,3842,361-1234-5745,EUGENE.BALLARD@go.sfcollege.edu,IT_Security__Risk Management
+BANKS,BRIAN,BRIAN,,1001-1068,3652,361-1234-5746,BRIAN.BANKS@go.sfcollege.edu,Network_Security
+BANKS,GREGORY,GREGORY,,1001-1069,3624,361-1234-5747,GREGORY.BANKS@go.sfcollege.edu,Programming
+BANKS,JOHN,JOHN,,1001-1070,3650,361-1234-5748,JOHN.BANKS@go.sfcollege.edu,Server_Administration
+BANTON,RAYMOND,RAYMOND,,1001-1071,3651,361-1234-5749,RAYMOND.BANTON@go.sfcollege.edu,Infrastructure
+BAPTISTE,JESSIE,JESSIE,,1001-1072,3841,361-1234-5750,JESSIE.BAPTISTE@go.sfcollege.edu,IT_Security__Healthcare
+BARRETT,TREVIS,TREVIS,,1001-1073,3840,361-1234-5751,TREVIS.BARRETT@go.sfcollege.edu,IT_Security__Infrastructure
+BARTON,JONATHAN,JONATHAN,,1001-1074,3842,361-1234-5752,JONATHAN.BARTON@go.sfcollege.edu,IT_Security__Risk Management
+BASS,DANA,DANA,,1001-1075,3652,361-1234-5753,DANA.BASS@go.sfcollege.edu,Network_Security
+BASS,DEMETRIUS,DEMETRIUS,,1001-1076,3624,361-1234-5754,DEMETRIUS.BASS@go.sfcollege.edu,Programming
+BATIE,STEVEN,STEVEN,,1001-1077,3650,361-1234-5755,STEVEN.BATIE@go.sfcollege.edu,Server_Administration
+BATIE,WILLIAM,WILL,,1001-1078,3651,361-1234-5756,WILLIAM.BATIE@go.sfcollege.edu,Infrastructure
+BAY,JAMES,JAMES,,1001-1079,3841,361-1234-5757,JAMES.BAY@go.sfcollege.edu,IT_Security__Healthcare
+BEARD,DELONTE,DELONTE,,1001-1080,3840,361-1234-5758,DELONTE.BEARD@go.sfcollege.edu,IT_Security__Infrastructure
+BEASLEY,RAYON,RAYON,,1001-1081,3842,361-1234-5759,RAYON.BEASLEY@go.sfcollege.edu,IT_Security__Risk Management
+BELFORD,RONALD,RONALD,,1001-1082,3652,361-1234-5760,RONALD.BELFORD@go.sfcollege.edu,Network_Security
+BELL,QUENTIN,QUENTIN,,1001-1083,3624,361-1234-5761,QUENTIN.BELL@go.sfcollege.edu,Programming
+BELL,ZABRIEL,ZABRIEL,,1001-1084,3650,361-1234-5762,ZABRIEL.BELL@go.sfcollege.edu,Server_Administration
+BENNETT,KRISTEN,KRISTEN,,1001-1085,3651,361-1234-5763,KRISTEN.BENNETT@go.sfcollege.edu,Infrastructure
+BERNIER,HOWARD,HOWARD,,1001-1086,3841,361-1234-5764,HOWARD.BERNIER@go.sfcollege.edu,IT_Security__Healthcare
+BERRIEN,CORTAEVIOUS,CORTAEVIOUS,,1001-1087,3840,361-1234-5765,CORTAEVIOUS.BERRIEN@go.sfcollege.edu,IT_Security__Infrastructure
+BERRY,MARK,MARK,,1001-1088,3842,361-1234-5766,MARK.BERRY@go.sfcollege.edu,IT_Security__Risk Management
+BEVERIDGE,KELVIN,KELVIN,,1001-1089,3652,361-1234-5767,KELVIN.BEVERIDGE@go.sfcollege.edu,Network_Security
+BIGLOW,CORNELIUS,CORNELIUS,,1001-1090,3624,361-1234-5768,CORNELIUS.BIGLOW@go.sfcollege.edu,Programming
+BING,FRANK,FRANK,,1001-1091,3650,361-1234-5769,FRANK.BING@go.sfcollege.edu,Server_Administration
+BINGER,ANTONETT,ANTONETT,,1001-1092,3651,361-1234-5770,ANTONETT.BINGER@go.sfcollege.edu,Infrastructure
+BISHOP,ALEXANDER,ALEXANDER,,1001-1093,3841,361-1234-5771,ALEXANDER.BISHOP@go.sfcollege.edu,IT_Security__Healthcare
+BLACK,REMY,REMY,,1001-1094,3840,361-1234-5772,REMY.BLACK@go.sfcollege.edu,IT_Security__Infrastructure
+BLACK,RAMON,RAMON,,1001-1095,3842,361-1234-5773,RAMON.BLACK@go.sfcollege.edu,IT_Security__Risk Management
+BLAKE,RAYMOND,RAY,,1001-1096,3652,361-1234-5774,RAYMOND.BLAKE@go.sfcollege.edu,Network_Security
+BLANK,ALEXANDER,ALEX,,1001-1097,3624,361-1234-5775,ALEXANDER.BLANK@go.sfcollege.edu,Programming
+BODLEN,NICHOLAS,NICK,,1001-1098,3650,361-1234-5776,NICHOLAS.BODLEN@go.sfcollege.edu,Server_Administration
+BOLEN,ANTONIO,ANTONIO,,1001-1099,3651,361-1234-5777,ANTONIO.BOLEN@go.sfcollege.edu,Infrastructure
+BOLTON,FLYNN,FLYNN,,1001-1100,3841,361-1234-5778,FLYNN.BOLTON@go.sfcollege.edu,IT_Security__Healthcare
+BOONE,MARIKA,MARY,,1001-1101,3840,361-1234-5779,MARIKA.BOONE@go.sfcollege.edu,IT_Security__Infrastructure
+BOOTH,JAROD,JAROD,,1001-1102,3842,361-1234-5780,JAROD.BOOTH@go.sfcollege.edu,IT_Security__Risk Management
+BOWERS,MELVIN,MELVIN,,1001-1103,3652,361-1234-5781,MELVIN.BOWERS@go.sfcollege.edu,Network_Security
+BOWERS,WELDON,WELDON,,1001-1104,3624,361-1234-5782,WELDON.BOWERS@go.sfcollege.edu,Programming
+BRADLEY,JUSTIN,JUSTIN,,1001-1105,3650,361-1234-5783,JUSTIN.BRADLEY@go.sfcollege.edu,Server_Administration
+BRAMLETT,JEREMY,JEREMY,,1001-1106,3651,361-1234-5784,JEREMY.BRAMLETT@go.sfcollege.edu,Infrastructure
+BRANDT,ANTHONY,ANTHONY,,1001-1107,3841,361-1234-5785,ANTHONY.BRANDT@go.sfcollege.edu,IT_Security__Healthcare
+BRANHAM,BRIAN,BRIAN,,1001-1108,3840,361-1234-5786,BRIAN.BRANHAM@go.sfcollege.edu,IT_Security__Infrastructure
+BRANHAM,ERIC,ERIC,,1001-1109,3842,361-1234-5787,ERIC.BRANHAM@go.sfcollege.edu,IT_Security__Risk Management
+BRANTON,HORATIO,HORATIO,,1001-1110,3652,361-1234-5788,HORATIO.BRANTON@go.sfcollege.edu,Network_Security
+BRASBY,JARED,JARED,,1001-1111,3624,361-1234-5789,JARED.BRASBY@go.sfcollege.edu,Programming
+BREEDLOVE,JOANNE,JOANNE,,1001-1112,3650,361-1234-5790,JOANNE.BREEDLOVE@go.sfcollege.edu,Server_Administration
+BRENNEN,CHRISTOPHER,CHRIS,,1001-1113,3651,361-1234-5791,CHRISTOPHER.BRENNEN@go.sfcollege.edu,Infrastructure
+BRINKMOELLER,DONALD,DONALD,,1001-1114,3841,361-1234-5792,DONALD.BRINKMOELLER@go.sfcollege.edu,IT_Security__Healthcare
+BROCKMAN,LUCIEN,LUCIEN,,1001-1115,3840,361-1234-5793,LUCIEN.BROCKMAN@go.sfcollege.edu,IT_Security__Infrastructure
+BROILES,JULIUS,JULIUS,,1001-1116,3842,361-1234-5794,JULIUS.BROILES@go.sfcollege.edu,IT_Security__Risk Management
+BROOKES,DARIUS,DARIUS,,1001-1117,3652,361-1234-5795,DARIUS.BROOKES@go.sfcollege.edu,Network_Security
+BROOKS,CHRISTIAN,CHRISTIAN,,1001-1118,3624,361-1234-5796,CHRISTIAN.BROOKS@go.sfcollege.edu,Programming
+BROOKS,XZAVION,XZAVION,,1001-1119,3650,361-1234-5797,XZAVION.BROOKS@go.sfcollege.edu,Server_Administration
