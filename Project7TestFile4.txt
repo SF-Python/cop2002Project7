@@ -80,9 +80,9 @@ Program Code,Major
 5250,Industrial Biotechnology
 5600,Multimedia and Video Production Technology 
 5500,Organizational Management
-5650,IST-Networking
-5651,IST-Programming
-5652,IST-Security
+5650,IST*Networking
+5651,IST*Programming
+5652,IST*Security
 5550, Accounting
 5300,Early Childhood Education
 5400,Nursing
@@ -90,8 +90,8 @@ Program Code,Major
 3822,Biomedical Equipment Technician
 3621,Biotechnology Laboratory Technician
 3610,Construction Management Technology
-3225,Business Administration-Insurance and Risk Management
-3220,Business Administration-Management
+3225,Business Administration*Insurance and Risk Management
+3220,Business Administration*Management
 3308,Cardiovascular Sonography
 3630,Chemical Technology
 3504,Computer Information Technology
@@ -106,19 +106,19 @@ Program Code,Major
 3520,Health Information Technology
 3330,Health Services Management
 3307,Invasive Cardiovascular Technology
-3840,IT Security – Infrastructure Track
-3841,IT Security – Healthcare Track
-3842,IT Security – Risk Management Track
-3650,Network System Technology – Networking Server Administration
-3651,Network System Technology – Networking Infrastructure
+3840,IT Security * Infrastructure Track
+3841,IT Security * Healthcare Track
+3842,IT Security * Risk Management Track
+3650,Network System Technology * Networking Server Administration
+3651,Network System Technology * Networking Infrastructure
 3315,Nuclear Medicine Technology
 3303,Nursing
 3313,Nursing Bridge LPN
 3230,Office Administration
 3707,Paralegal Studies
 3318,Physical Therapist Assistant
-3624,Programming and Analysis – Web Development  
-3625,Programming and Analysis – Application Development
+3624,Programming and Analysis * Web Development  
+3625,Programming and Analysis * Application Development
 3305,Radiography
 3310,Respiratory Care
 3550,Theatre and Entertainment Technology
@@ -147,7 +147,7 @@ Program Code,Major
 7722,Crossover from Law Enforcement to Correctional Officer
 7301,Dental Assisting
 7692,Electrical Construction Apprenticeship
-7601,Heating Ventilation Air-Conditioning/Refrigeration Technology
+7601,Heating Ventilation Air*Conditioning/Refrigeration Technology
 7631,Heating and Air Conditioning Apprenticeship
 7702,Law Enforcement Officer
 7333,Nursing Assistant
@@ -157,4 +157,4 @@ Program Code,Major
 7303,Practical Nursing
 7338,Surgical Technology
 7623,Welding Technology
-7627,Welding Technology - Advanced
+7627,Welding Technology * Advanced
