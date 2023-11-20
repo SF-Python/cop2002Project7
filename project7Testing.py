@@ -20,7 +20,7 @@ class Project7Test(unittest.TestCase):
                     if(answer[counter]!=lines[counter]):
                         areSame=False
                         print()
-                        print(str(method)+":  Line #"+str(counter)+" incorrect")
+                        print(str(method)+":  Line #"+str(counter)+" incorrect. " + lines[counter])
                     counter+=1
 
                 result=areSame
