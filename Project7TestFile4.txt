@@ -1,4 +1,4 @@
-ï»¿Program Code,Major
+Program Code,Major
 1031,Accounting
 1010,Agriculture
 1013,Animal Sciences
@@ -106,19 +106,19 @@
 3520,Health Information Technology
 3330,Health Services Management
 3307,Invasive Cardiovascular Technology
-3840,IT Security â€“ Infrastructure Track
-3841,IT Security â€“ Healthcare Track
-3842,IT Security â€“ Risk Management Track
-3650,Network System Technology â€“ Networking Server Administration
-3651,Network System Technology â€“ Networking Infrastructure
+3840,IT Security – Infrastructure Track
+3841,IT Security – Healthcare Track
+3842,IT Security – Risk Management Track
+3650,Network System Technology – Networking Server Administration
+3651,Network System Technology – Networking Infrastructure
 3315,Nuclear Medicine Technology
 3303,Nursing
 3313,Nursing Bridge LPN
 3230,Office Administration
 3707,Paralegal Studies
 3318,Physical Therapist Assistant
-3624,Programming and Analysis â€“ Web Development  
-3625,Programming and Analysis â€“ Application Development
+3624,Programming and Analysis – Web Development  
+3625,Programming and Analysis – Application Development
 3305,Radiography
 3310,Respiratory Care
 3550,Theatre and Entertainment Technology
